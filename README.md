@@ -11,27 +11,27 @@ Noted by [Md. Zubayer](https://github.com/mdzubayer-ahmed) on 03 February 2024
 * Created `beta` as the working branch of the project
 
 ## Current tasks:
-[ ] @rayan-mric Accept invitation
-[ ] @mdzubayer-ahmed Add the necessary files to `main` branch
+- [ ] @rayan-mric Accept invitation
+- [ ] @mdzubayer-ahmed Add the necessary files to `main` branch
 
 
 ## Information about the developers:
-1. Md. Zubayer Ahmed
-  BSc (3rd year)
-  Major: Computer Science (Smart Systems)
-  Minor: Business Administration
-  [Memorial University of Newfoundland](https://www.mun.ca/)
+1. Md. Zubayer Ahmed \
+  BSc (3rd year) \
+  Major: Computer Science (Smart Systems) \
+  Minor: Business Administration \
+  [Memorial University of Newfoundland](https://www.mun.ca/) \
   [LinkedIn](https://www.linkedin.com/in/mdzubayer-ahmed/)
   [GitHub](https://github.com/mdzubayer-ahmed)
   [E-mail](mailto:mzahmed@mun.ca)
 
-2. Md Rayanul Islam Chowdhury
-  BSc (2nd year)
-  Major: Computer Science
-  [Memorial University of Newfoundland](https://www.mun.ca/)
+2. Md Rayanul Islam Chowdhury \
+  BSc (2nd year) \
+  Major: Computer Science \
+  [Memorial University of Newfoundland](https://www.mun.ca/) \
   [LinkedIn](https://www.linkedin.com/in/rayan-mric/)
   [GitHub](https://github.com/rayan-mric)
 
 
 ### Footnotes:
-[^1]: This is not a strict deadline
+[^1]: This is not a strict deadline. We will try to finish it asap though.
