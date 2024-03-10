@@ -11,7 +11,7 @@ Noted by [Md. Zubayer](https://github.com/mdzubayer-ahmed) on 03 February 2024
 * Created `beta` as the working branch of the project
 
 ## Current tasks:
-- [ ] @rayan-mric Accept invitation
+- [X] @rayan-mric Accept invitation
 - [ ] @mdzubayer-ahmed Add the necessary files to `main` branch
 
 
