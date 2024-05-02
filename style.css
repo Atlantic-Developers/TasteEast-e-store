@@ -4,7 +4,8 @@ nav a ,.Deals a{
     padding: 15px 10px;
 
 }
-nav ul :hover {
+
+nav ul :hover, .Deals ul :hover {
     background-color: hwb(34 55% 1%);
     border-radius: 5px;
     
