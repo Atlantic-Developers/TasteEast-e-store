@@ -24,10 +24,13 @@ nav{
     align-content: center;
     padding: 0;
 }
-img{
-    width: 150px;
-    height: 150px;
+.featured_photo img{
+    width: 120px;
+    height: 120px;
+    padding: 5px;
+    border-radius: 10px;
 }
-.featured_photo img {
-padding: 5px;
+
+#banner{
+    width: 100%;
 }
