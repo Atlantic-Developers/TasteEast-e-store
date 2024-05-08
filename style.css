@@ -10,8 +10,9 @@ body{
 nav ul :hover{
     background-color: hwb(34 55% 1%);
     border-radius: 5px;
-    
-
+}
+h2{
+    margin-bottom: 30px;
 }
 hr{
     margin: 0;
@@ -73,7 +74,7 @@ nav{
 .recepies{
     display: flex;
     gap: 10px;
-    margin: 0px auto 20px;
+    margin: 0px auto 40px;
     justify-content: center;
 }
 .primary_button{
