@@ -1,15 +1,20 @@
-nav a {
-    padding:  10px;
-    font-size: 10px;
-
-}
 body{
     text-align: center;
     margin: 0;
 }
+nav a {
+    padding:  10px;
+    font-size: 10px;
+    
+
+}
+nav ul{
+    justify-content: center;
+}
 nav ul :hover{
     background-color: hwb(34 55% 1%);
     border-radius: 5px;
+
 }
 h2{
     margin-bottom: 30px;
@@ -20,7 +25,7 @@ hr{
 ul {
 list-style-type: none;
 display:flex;
-
+list-style: none;
 }
 a{
     text-decoration: none;
@@ -28,8 +33,6 @@ a{
 }
 nav{
     background-color: antiquewhite;
-    align-content: center;
-    padding: 0;
 }
 
 .featured_photo img{
@@ -42,14 +45,23 @@ nav{
 #banner{
     width: 100%;
 }
+.deals_items{
+    
+    margin: 40px auto;
+    max-width:700px;
+    
+    
+}
 .special {
     background-color: rgb(250, 244, 237);
     padding: 15px 10px;
-    text-decoration: none;
-    margin: 10px;
+    margin: 10px auto;
     max-width: 150px;
     color: rgb(0, 0, 0);
-    text-align: center;
+   
+  
+    
+   
 }
 .special img {
     width: 30px;
@@ -74,8 +86,9 @@ nav{
 .recepies{
     display: flex;
     gap: 10px;
-    margin: 0px auto 40px;
+    margin: 40px  auto;
     justify-content: center;
+    max-width:700px;
 }
 .primary_button{
     padding: 10px 10px;
