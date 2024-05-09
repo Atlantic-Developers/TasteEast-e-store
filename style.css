@@ -5,8 +5,6 @@ body{
 nav a {
     padding:  10px;
     font-size: 10px;
-    
-
 }
 nav ul{
     justify-content: center;
@@ -14,7 +12,6 @@ nav ul{
 nav ul :hover{
     background-color: hwb(34 55% 1%);
     border-radius: 5px;
-
 }
 h2{
     margin-bottom: 30px;
@@ -25,6 +22,7 @@ hr{
 ul {
 list-style-type: none;
 display:flex;
+
 list-style: none;
 }
 a{
@@ -34,7 +32,6 @@ a{
 nav{
     background-color: antiquewhite;
 }
-
 .featured_photo img{
     width: 120px;
     height: 120px;
@@ -49,8 +46,6 @@ nav{
     
     margin: 40px auto;
     max-width:700px;
-    
-    
 }
 .special {
     background-color: rgb(250, 244, 237);
@@ -58,10 +53,6 @@ nav{
     margin: 10px auto;
     max-width: 150px;
     color: rgb(0, 0, 0);
-   
-  
-    
-   
 }
 .special img {
     width: 30px;
@@ -109,7 +100,6 @@ footer{
     padding:50px  200px;
     margin: 0px;
     display: flex;
-
 }
 .banner{
     background-color: antiquewhite;

@@ -4,15 +4,14 @@ For a St. John's based Grocery store ["Taste East Inc."](https://maps.app.goo.gl
 The main goal is to develop an interactive website for the business and an inventory management system. <br/>
 The project was initiated in February 2024 and is expected to end by April 2024 [^1]
 ## Latest update
-Noted by [Md. Zubayer](https://github.com/mdzubayer-ahmed) on 03 February 2024
-* Created `Readme.md` file
-* Invited [Md Rayanul](https://github.com/rayan-mric)
-* Initial commit in the `main` branch
-* Created `beta` as the working branch of the project
+Noted by [Md Rayanul](https://github.com/rayan-mric) on 03 May 2024
+* Scrum Meeting on every Monday and Friday
+* Code review and design re-evaluation on every Friday meetings
+* 
 
 ## Current tasks:
-- [X] @rayan-mric Accept invitation
-- [ ] @mdzubayer-ahmed Add the necessary files to `main` branch
+- [ ] @mdzubayer-ahmed update the `beta` branch
+- [ ]  @rayan-mric review the code
 
 
 ## Information about the developers:
