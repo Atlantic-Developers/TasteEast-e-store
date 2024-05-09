@@ -7,7 +7,7 @@ The project was initiated in February 2024 and is expected to end by April 2024 
 Noted by [Md Rayanul](https://github.com/rayan-mric) on 03 May 2024
 * Scrum Meeting on every Monday and Friday
 * Code review and design re-evaluation on every Friday meetings
-* 
+* primary structure has been developed by [@rayan_mric](https://github.com/rayan-mric) on 9 May 2024
 
 ## Current tasks:
 - [ ] @mdzubayer-ahmed update the `beta` branch
