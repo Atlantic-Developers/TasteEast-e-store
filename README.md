@@ -3,6 +3,7 @@ This is a joint project by [Md. Zubayer](https://github.com/mdzubayer-ahmed) and
 For a St. John's based Grocery store ["Taste East Inc."](https://maps.app.goo.gl/GJffXzQgSR4auPwc9) <br/>
 The main goal is to develop an interactive website for the business and an inventory management system. <br/>
 The project was initiated in February 2024 and is expected to end by August 2024 [^1]
+
 ## Latest update
 Noted by [Md. Zubayer](https://github.com/mdzubayer-ahmed) on 03 May 2024
 * Created `Readme.md` file
